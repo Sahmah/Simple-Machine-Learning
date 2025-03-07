@@ -22,3 +22,6 @@ y (variável dependente): recebe a coluna "preco" do DataFrame.
 As colunas são passadas dentro de [[]] para que os dados fiquem no formato correto (matriz de valores).
 modelo.fit(x, y): treina o modelo com os dados (x e y).
 O modelo aprende a relação entre o diâmetro da pizza e seu preço.
+
+# Còdigo de execução do app
+streamlit run app.py

@@ -14,7 +14,7 @@ Eixo X: diametro (tamanho da pizza).
 Eixo Y: preco (valor da pizza).
 
 Importa o módulo linear_model da biblioteca sklearn para trabalhar com modelos de regressão.
-modelo = linear_model.LinearRegression(): cria uma instância do modelo de Regressão Linear, que será usado para encontrar a relação entre o diâmetro e o preço da pizza.
+modelo = linear_model.LinearRegression(): cria uma instância do modelo de Regressão Linear, que será usado para encontrar A relação entre o diâmetro e o preço da pizza.
 x = df[["diametro"]]
 y = df[["preco"]]
 x (variável independente): recebe a coluna "diametro" do DataFrame.

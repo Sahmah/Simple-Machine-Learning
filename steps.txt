@@ -1,0 +1,15 @@
+1- importar a Data
+2- Filtrar a Data
+3- Dividir a Data entre treino e testes 
+4- Criar um modelo
+5- Treinar o modelo
+6- Fazer as previsões
+7- Avaliar e melhorar o modelo/Otimizar
+
+Bibliotecas {
+Streamlit (uma biblioteca de código aberto que permite criar aplicativos web interativos para visualização de dados)
+Pandas (biblioteca de código aberto que permite manipular e analisar dados tabulares)
+MatPlotLib (biblioteca que permite criar gráficos a partir de dados numéricos)
+Scikit-Learn (biblioteca de código aberto que permite fazer o aprendizado da máquina/IA)
+}
+
